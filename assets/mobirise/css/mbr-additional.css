@@ -860,7 +860,7 @@ section.lazy-placeholder:after {
 .cid-rDQnd2dD1d {
   padding-top: 60px;
   padding-bottom: 120px;
-  background-color: #f9f9f9;
+  background-color: #f9f295;
 }
 .cid-rDQnd2dD1d .mbr-section-subtitle {
   color: #767676;
@@ -936,7 +936,7 @@ section.lazy-placeholder:after {
 .cid-rDQnhZdlXg {
   padding-top: 60px;
   padding-bottom: 120px;
-  background-color: #f9f9f9;
+  background-color: #ff7f9f;
 }
 .cid-rDQnhZdlXg .mbr-section-subtitle {
   color: #767676;
@@ -960,7 +960,7 @@ section.lazy-placeholder:after {
 .cid-rDQnhZdlXg table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #232323;
   margin-bottom: 0;
 }
 .cid-rDQnhZdlXg table th {
@@ -969,11 +969,11 @@ section.lazy-placeholder:after {
   border-bottom: none;
 }
 .cid-rDQnhZdlXg table th:hover {
-  background: #cccccc;
-  color: #000000;
+  background: #232323;
+  color: #ffffff;
 }
 .cid-rDQnhZdlXg table td {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #232323;
 }
 .cid-rDQnhZdlXg .dataTables_filter {
   text-align: right;
@@ -1009,10 +1009,19 @@ section.lazy-placeholder:after {
     margin-left: 0 !important;
   }
 }
+.cid-rDQt51qF88 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #55b4d4;
+}
+.cid-rDQt51qF88 .mbr-text,
+.cid-rDQt51qF88 blockquote {
+  color: #767676;
+}
 .cid-rDQnZRDMNR {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #e4d295;
 }
 .cid-rDQnZRDMNR h2 {
   margin-bottom: 0;
@@ -1056,7 +1065,7 @@ section.lazy-placeholder:after {
 .cid-rDQnpa5HWk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #55b4d4;
 }
 .cid-rDQnpa5HWk .title {
   margin-bottom: 2rem;
