@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "CSE331L_Fall19_aaneloy-clone",
+    "name": "CSE331L_Spring2020_aaneloy",
     "currentPage": "aaneloy_cse331L_Fall19.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 48,
     "versionPublish": "4.10.15",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/844-processor-ic-circuit-power-512-128x128.png",
     "noImageResize": "",
     "screenshot": "screenshot.png"
   },
