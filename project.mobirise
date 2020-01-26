@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSE331L_Spring2020_aaneloy",
-    "currentPage": "aaneloy_cse331L_Fall19.html",
+    "currentPage": "aaneloy_cse331L.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -273,7 +273,7 @@
         }
       ]
     },
-    "aaneloy_cse331L_Fall19.html": {
+    "aaneloy_cse331L.html": {
       "settings": {
         "main": true,
         "title": "aaneloy_CSE331L_Fall19",
